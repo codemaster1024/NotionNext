@@ -43,7 +43,7 @@ const Footer = ({ siteInfo }) => {
       {siteConfig('BEI_AN') && (
         <>
           <i className='fas fa-shield-alt' />{' '}
-          <a href='https://beian.miit.gov.cn/' className='mr-2'>
+          <a href='https://icp.gov.moe/?keyword=20245588' className='mr-2'>
             {siteConfig('BEI_AN')}
           </a>
           <br />
